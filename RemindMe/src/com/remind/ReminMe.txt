@@ -1,3 +1,5 @@
 1.JNI
 
 2.Thread.class
+
+3.自动化部署
